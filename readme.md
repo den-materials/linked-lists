@@ -1,3 +1,5 @@
+<!-- WDI6 Notes: I stumbled a bit in the question part, started by having students read the first couple, then finished reading them myself cause I didnt want it to take too long. Then, it just wasn't quite natural. Also, this lesson is really hard for people, because they're not used to thinking about reassiging variables and addresses in memory. Shorter explanation time and more of a live demo would have been better. -->
+
 <!--Actually started 9:15, "finished" first two methods and went over solution by 10:30, some devs went further -->
 
 <!--WDI5 1:34 -->
